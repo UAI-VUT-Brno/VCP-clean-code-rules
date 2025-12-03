@@ -1,4 +1,6 @@
 # VCP-clean-code-rules
+Authors: VCP Contributors (see https://www.vut.cz/en/students/courses/detail/292325 / https://www.vut.cz/studenti/predmety/detail/292325 - in czech)
+
 Practical clean code reminders with tiny C# before/after snippets.
 
 ## How to use
