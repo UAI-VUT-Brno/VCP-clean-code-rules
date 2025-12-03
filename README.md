@@ -1,4 +1,17 @@
 # VCP-clean-code-rules
-A guide to code writing habits
+Practical clean code reminders with tiny C# before/after snippets.
 
-In respective thematic folders find overview of common code writing bad practices AND how to avoid them.
+## How to use
+- Browse the topic folders under `CleanCode/`.
+- Each `.cs` file states a rule, shows a BAD example, and suggests a BETTER approach.
+- Use them as quick refreshers, onboarding material, or discussion starters in code reviews.
+
+## Folder map
+- `CleanCode/CASE1-NAMING`: intent-revealing names, avoiding misleading or noisy context.
+- `CleanCode/CASE2-VARIABLES`: scope, clarity, magic values, and meaningful identifiers.
+- `CleanCode/CASE3-CODING`: branching, method responsibilities, separators, and dead code.
+- `CleanCode/CASE4_CODINGSTYLE`: access modifiers, field discipline, and immutability.
+- `CleanCode/CASE5_EXCEPTIONS`: throwing, rethrowing, and controlling flow with exceptions.
+- `CleanCode/CASE6-TESTING`: test naming, isolation, and single-behavior focus.
+
+Use or adapt the snippets in training decks, brown-bag sessions, or as prompts for practicing refactors.
